@@ -2,9 +2,9 @@
 class Vin < Formula
   desc "Simple baseball CLI."
   homepage "https://github.com/benfb/vin/"
-  url "https://github.com/benfb/vin/releases/download/v0.4.0/vin_0.4.0_darwin_amd64.tar.gz"
-  version "0.4.0"
-  sha256 "4c2ec21636a5135f473a1beb36b1d170fcba2a6aa44352d8031a1cfc8ab661cc"
+  url "https://github.com/benfb/vin/releases/download/v0.4.1/vin_0.4.1_darwin_amd64.tar.gz"
+  version "0.4.1"
+  sha256 "f155196fb0c5b8272e778fa17c4f8bee2f110b042b1987cf8d5bd496079e2a43"
 
   def install
     bin.install "vin"
